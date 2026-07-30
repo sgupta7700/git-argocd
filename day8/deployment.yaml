@@ -43,7 +43,7 @@ spec:
           value: "v1.1.0"
 
         - name: COLOR_THEME
-          value: "Blue"
+          value: "RED"
 
         - name: BUILD_DATE
           value: "30-Jul-2026"
