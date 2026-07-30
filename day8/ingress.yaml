@@ -11,7 +11,7 @@ spec:
 
   rules:
 
-  - host: gitops-student-XX.lab.local
+  - host: gitops-student-04.lab.local
 
     http:
 
