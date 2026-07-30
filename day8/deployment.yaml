@@ -31,7 +31,7 @@ spec:
         env:
 
         - name: COMPANY
-          value: "Vishwacloudlab"
+          value: "ShaileshGuptalab"
 
         - name: APPLICATION
           value: "GitOps Demo"
